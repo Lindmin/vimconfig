@@ -1,4 +1,11 @@
+
+" runtimes
 runtime plugin.vim
+runtime shortcuts.vim
+
+
+
+
 set ttimeoutlen=50
 
 
