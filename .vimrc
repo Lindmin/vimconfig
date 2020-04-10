@@ -2,6 +2,7 @@
 " runtimes
 runtime plugin.vim
 runtime shortcuts.vim
+runtime themes.vim
 
 
 
